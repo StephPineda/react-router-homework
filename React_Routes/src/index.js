@@ -22,10 +22,10 @@ class Dogs extends Component {
               <Link to="/happy">Happy</Link>
             </li>
             <li>
-              <Link to="/about">Sleepy</Link>
+              <Link to="/sleepy">Sleepy</Link>
             </li>
             <li>
-              <Link to="/topics">Guilty</Link>
+              <Link to="/guilty">Guilty</Link>
             </li>
           </ul>
 
